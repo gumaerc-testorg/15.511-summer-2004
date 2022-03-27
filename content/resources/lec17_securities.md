@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4b6cce13-f788-f002-4a34-22f7794e22c1
 resourcetype: Document
 title: lec17_securities.pdf
 uid: f3d38d5e-8c8a-6517-c430-7a84280d3dba

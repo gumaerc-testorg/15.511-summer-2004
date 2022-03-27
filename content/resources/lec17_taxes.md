@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4b6cce13-f788-f002-4a34-22f7794e22c1
 resourcetype: Document
 title: lec17_taxes.pdf
 uid: 3e1260f3-3b64-2c74-6b74-79fd575a6b53
