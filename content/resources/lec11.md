@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for lecture presentation.
-file: /media/courses/15-511-financial-accounting-summer-2004/2e0a8f0681b627456cbae06319aae443_lec11.pdf
+file: /courses/15-511-financial-accounting-summer-2004/2e0a8f0681b627456cbae06319aae443_lec11.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: lec11.pdf
 uid: 2e0a8f06-81b6-2745-6cba-e06319aae443
 ---
+Slides for lecture presentation.
+
