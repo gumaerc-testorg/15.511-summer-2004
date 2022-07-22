@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 4d11d159-934a-d7a9-5a60-ced2b1c3b74e
 ---
@@ -27,10 +31,10 @@ SOLUTIONS
 E1
 {{< tdclose >}}
 {{< tdopen >}}
-Mid-term Exam ([PDF]({{< baseurl >}}/resources/midterm_2004))
+Mid-term Exam ({{% resource_link 42025aef-1d30-2b4f-5316-015e63e90477 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Mid-term Exam Solutions ([PDF]({{< baseurl >}}/resources/midterm_soln))
+Mid-term Exam Solutions ({{% resource_link be58a7f2-f499-67cd-d5fe-7be9f79fe46b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -39,10 +43,10 @@ Mid-term Exam Solutions ([PDF]({{< baseurl >}}/resources/midterm_soln))
 E2
 {{< tdclose >}}
 {{< tdopen >}}
-Final Exam ([PDF]({{< baseurl >}}/resources/final_2004))
+Final Exam ({{% resource_link 36fc58f7-6d91-4afc-6d66-9edae0742b32 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Final Exam Solutions ([PDF]({{< baseurl >}}/resources/final_soln))
+Final Exam Solutions ({{% resource_link 78161e50-4124-ba14-4755-d49e12ff1f9d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

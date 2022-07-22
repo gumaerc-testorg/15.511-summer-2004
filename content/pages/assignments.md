@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 629af6b0-7e1e-b247-6778-f4898eccfc88
 ---
@@ -24,7 +28,7 @@ ASSIGNMENTS
 L4
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/pset1))
+Problem Set 1 ({{% resource_link 230365f1-cb8d-8dcf-59ff-87a6847b7602 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +37,7 @@ Problem Set 1 ([PDF]({{< baseurl >}}/resources/pset1))
 L6
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 2 ([PDF]({{< baseurl >}}/resources/pset2))
+Problem Set 2 ({{% resource_link 96169cfb-7d0d-bf58-0d80-f67aaf39e1df "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +46,7 @@ Problem Set 2 ([PDF]({{< baseurl >}}/resources/pset2))
 L10
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/pset3))
+Problem Set 3 ({{% resource_link 290b8508-1926-9ef1-0589-83a71eaeae6a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +55,7 @@ Problem Set 3 ([PDF]({{< baseurl >}}/resources/pset3))
 L16
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 4 ([PDF]({{< baseurl >}}/resources/pset4))
+Problem Set 4 ({{% resource_link 2e9f19a4-1926-23bc-0268-d01caf11c36d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +64,7 @@ Problem Set 4 ([PDF]({{< baseurl >}}/resources/pset4))
 Two days after L18
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 5 ([PDF]({{< baseurl >}}/resources/pset5))
+Problem Set 5 ({{% resource_link 4fbb562d-88e1-372d-cca4-c56cd5bd8bfa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

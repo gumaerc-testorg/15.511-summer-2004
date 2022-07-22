@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains course meeting times, overview, and grading scheme.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4084c8ab-75d4-8818-6b21-14073458adf7
 ---
@@ -84,4 +87,4 @@ Final Exam
 Calendar
 --------
 
-See the last column of the [calendar]({{< baseurl >}}/pages/calendar) for important details of each day's plan. Problem sets must be submitted before the start of the class of the due date. Problem set can be done individually or in study groups. The "Do" problems will help you prepare for class. They do not have to be submitted.
+See the last column of the {{% resource_link efebac25-cbdf-69e4-059b-4cdc1855d313 "calendar" %}} for important details of each day's plan. Problem sets must be submitted before the start of the class of the due date. Problem set can be done individually or in study groups. The "Do" problems will help you prepare for class. They do not have to be submitted.
