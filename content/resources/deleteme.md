@@ -5,6 +5,7 @@ file: /courses/15-511-financial-accounting-summer-2004/9f22b7c603c5d2a6a3dd0d520
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

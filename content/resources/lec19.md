@@ -5,6 +5,7 @@ file: /courses/15-511-financial-accounting-summer-2004/3aad6bd8a9d766a56fc1315cc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec19.pdf
 uid: 3aad6bd8-a9d7-66a5-6fc1-315cc56c38d0
 ---
 Slides for the presentation of the final review lecture for this course.
-

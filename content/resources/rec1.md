@@ -5,6 +5,7 @@ file: /courses/15-511-financial-accounting-summer-2004/d142be297859a4044c97e9a35
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rec1.pdf
 uid: d142be29-7859-a404-4c97-e9a35b9e8f6a
 ---
 Slides for recitation session.
-

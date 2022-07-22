@@ -5,6 +5,7 @@ file: /courses/15-511-financial-accounting-summer-2004/78161e504124ba144755d49e1
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: final_soln.pdf
 uid: 78161e50-4124-ba14-4755-d49e12ff1f9d
 ---
 Final exam with solution.
-

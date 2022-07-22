@@ -8,6 +8,7 @@ file: /courses/15-511-financial-accounting-summer-2004/230365f1cb8d8dcf59ff87a68
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 230365f1-cb8d-8dcf-59ff-87a6847b7602
 ---
 Problems related to the use of the Balance Sheet Equation to record transactions and for the preparation of
 financial statements
-

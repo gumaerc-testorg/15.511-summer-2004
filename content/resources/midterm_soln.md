@@ -5,6 +5,7 @@ file: /courses/15-511-financial-accounting-summer-2004/be58a7f2f49967cdd5fe7be9f
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: midterm_soln.pdf
 uid: be58a7f2-f499-67cd-d5fe-7be9f79fe46b
 ---
 Midterm exam with solution.
-

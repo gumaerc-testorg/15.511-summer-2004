@@ -5,6 +5,7 @@ file: /courses/15-511-financial-accounting-summer-2004/8c987b8e5c795b386ee4a3c0b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec3.pdf
 uid: 8c987b8e-5c79-5b38-6ee4-a3c0bcd0ec52
 ---
 Slides for lecture presentation.
-

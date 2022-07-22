@@ -5,6 +5,7 @@ file: /courses/15-511-financial-accounting-summer-2004/42025aef1d302b4f5316015e6
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: midterm_2004.pdf
 uid: 42025aef-1d30-2b4f-5316-015e63e90477
 ---
 Midterm exam.
-

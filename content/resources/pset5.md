@@ -5,6 +5,7 @@ file: /courses/15-511-financial-accounting-summer-2004/4fbb562d88e1372dcca4c56cd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pset5.pdf
 uid: 4fbb562d-88e1-372d-cca4-c56cd5bd8bfa
 ---
 Problems related to deferred taxes and marketable securities.
-
