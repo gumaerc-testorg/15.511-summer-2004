@@ -5,6 +5,7 @@ description: 'Problems related to the use of the Balance Sheet Equation to recor
 
   financial statements'
 file: /courses/15-511-financial-accounting-summer-2004/230365f1cb8d8dcf59ff87a6847b7602_pset1.pdf
+file_size: 99423
 file_type: application/pdf
 learning_resource_types:
 - Assignments

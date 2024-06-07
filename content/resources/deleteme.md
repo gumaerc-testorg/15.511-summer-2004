@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-511-financial-accounting-summer-2004/9f22b7c603c5d2a6a3dd0d520385ee77_deleteme.pdf
+file_size: 160076
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

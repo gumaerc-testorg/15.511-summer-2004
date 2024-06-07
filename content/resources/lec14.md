@@ -2,6 +2,7 @@
 content_type: resource
 description: Slides for lecture presentation.
 file: /courses/15-511-financial-accounting-summer-2004/06956fb8d0a82384b2d0bdaa4bdc405a_lec14.pdf
+file_size: 56446
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

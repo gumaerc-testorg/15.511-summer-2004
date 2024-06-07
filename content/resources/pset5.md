@@ -2,6 +2,7 @@
 content_type: resource
 description: Problems related to deferred taxes and marketable securities.
 file: /courses/15-511-financial-accounting-summer-2004/4fbb562d88e1372dcca4c56cd5bd8bfa_pset5.pdf
+file_size: 109048
 file_type: application/pdf
 learning_resource_types:
 - Assignments
