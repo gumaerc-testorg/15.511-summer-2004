@@ -2,6 +2,7 @@
 content_type: resource
 description: Slides for recitation session.
 file: /courses/15-511-financial-accounting-summer-2004/443e9cc25e91f3d094f51be142204103_rec6.pdf
+file_size: 102600
 file_type: application/pdf
 learning_resource_types:
 - Recitations

@@ -2,6 +2,7 @@
 content_type: resource
 description: Final exam with solution.
 file: /courses/15-511-financial-accounting-summer-2004/78161e504124ba144755d49e12ff1f9d_final_soln.pdf
+file_size: 63159
 file_type: application/pdf
 learning_resource_types:
 - Exams
