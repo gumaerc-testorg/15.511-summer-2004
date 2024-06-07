@@ -2,6 +2,7 @@
 content_type: resource
 description: Problems related to revenue recognition and accounting for account receivables.
 file: /courses/15-511-financial-accounting-summer-2004/290b850819269ef1058983a71eaeae6a_pset3.pdf
+file_size: 131906
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -5,6 +5,7 @@ description: 'The following questions refer to the Chemalite, Inc case in the co
   Case No. 9-177-078). You should ignore the 5 questions at the end of the case and
   answer the following in their place.'
 file: /courses/15-511-financial-accounting-summer-2004/96169cfb7d0dbf580d80f67aaf39e1df_pset2.pdf
+file_size: 96589
 file_type: application/pdf
 learning_resource_types:
 - Assignments
