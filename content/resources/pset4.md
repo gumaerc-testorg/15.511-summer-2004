@@ -3,7 +3,7 @@ content_type: resource
 description: Problems related to accounting for depreciation, delta-pan am airlines
   case write-up, depreciation calculation, and inferring cash flows from depreciation
   disclosures.
-file: /courses/15-511-financial-accounting-summer-2004/2e9f19a4192623bc0268d01caf11c36d_pset4.pdf
+file: /ol-ocw-studio-app/courses/15-511-financial-accounting-summer-2004/2e9f19a4192623bc0268d01caf11c36d_pset4.pdf
 file_size: 250089
 file_type: application/pdf
 learning_resource_types:
