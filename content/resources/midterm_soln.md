@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Midterm exam with solution.
-file: /courses/15-511-financial-accounting-summer-2004/be58a7f2f49967cdd5fe7be9f79fe46b_midterm_soln.pdf
+file: /ol-ocw-studio-app/courses/15-511-financial-accounting-summer-2004/be58a7f2f49967cdd5fe7be9f79fe46b_midterm_soln.pdf
 file_size: 74615
 file_type: application/pdf
 learning_resource_types:

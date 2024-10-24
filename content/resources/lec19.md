@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for the presentation of the final review lecture for this course.
-file: /courses/15-511-financial-accounting-summer-2004/3aad6bd8a9d766a56fc1315cc56c38d0_lec19.pdf
+file: /ol-ocw-studio-app/courses/15-511-financial-accounting-summer-2004/3aad6bd8a9d766a56fc1315cc56c38d0_lec19.pdf
 file_size: 105509
 file_type: application/pdf
 learning_resource_types:
