@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final exam.
-file: /ol-ocw-studio-app/courses/15-511-financial-accounting-summer-2004/36fc58f76d914afc6d669edae0742b32_final_2004.pdf
+file: /courses/15-511-financial-accounting-summer-2004/36fc58f76d914afc6d669edae0742b32_final_2004.pdf
 file_size: 53803
 file_type: application/pdf
 learning_resource_types:

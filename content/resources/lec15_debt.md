@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for lecture presentation.
-file: /ol-ocw-studio-app/courses/15-511-financial-accounting-summer-2004/83fbdd71e083d311e0c7d55ca6fe08ea_lec15_debt.pdf
+file: /courses/15-511-financial-accounting-summer-2004/83fbdd71e083d311e0c7d55ca6fe08ea_lec15_debt.pdf
 file_size: 246242
 file_type: application/pdf
 learning_resource_types:

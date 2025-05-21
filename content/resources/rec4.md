@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for recitation session.
-file: /ol-ocw-studio-app/courses/15-511-financial-accounting-summer-2004/09d5619de85ddac1c7d4fcd6738148da_rec4.pdf
+file: /courses/15-511-financial-accounting-summer-2004/09d5619de85ddac1c7d4fcd6738148da_rec4.pdf
 file_size: 61302
 file_type: application/pdf
 learning_resource_types:
